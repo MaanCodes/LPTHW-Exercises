@@ -1,0 +1,8 @@
+1)Python
+2)Peacock
+3)Bear
+4)Kangaroo
+5)Whale
+6)Peacock
+7)Platypus
+8)Whale
